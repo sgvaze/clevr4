@@ -7,7 +7,7 @@ This repo contains a starter Jupyter Notebook and utilities for the Clevr-4 data
 
 Clevr-4 is a synthetic dataset where image generation is conditioned on four attributes, based on object: *texture*, *shape*, *color*, *count*.
 
-As a result, the dataset contains four equally valid clusterings of the same set of images. Each clustering (a.k.a 'taxonomy') has 10 categories (i.e 10 possible values for each of texture, shape, color and count.)
+As a result, the dataset contains four equally valid clusterings of the same set of images. Each clustering (a.k.a 'taxonomy') has 10 categories (i.e 10 possible values for each of texture, shape, color and count).
 
 It can be used as a probing set for biases in representation learning and for category discovery.
 
